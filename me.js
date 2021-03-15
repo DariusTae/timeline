@@ -1,6 +1,6 @@
 let me = {
-  age: 22,
+  age: 32,
   hairColor: Black,
-  relationshipStatus: metTheLoveOfMeLife,
-  significantEvents: RacismWouldOnceAgainScrewMeRoyally
+  relationshipStatus: singleButHopeful,
+  significantEvents: JustTheHope
 }
